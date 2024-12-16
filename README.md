@@ -2,7 +2,7 @@
 
 This project is a command-line Bank Management System written in Python,
 designed to simulate basic banking operations. Users can register, log in, and perform various account-related activities. 
-I am providing you the text file and .ipynb file so that you can understand it in better manner.
+I am providing you the text file in which whatever data is define by user can stored in text file directly and .ipynb file so that you can understand it in better manner.
 
 Key features include:
 User Registration and Login: New users can register, and existing users can securely log in to their accounts.
